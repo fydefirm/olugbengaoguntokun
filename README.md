@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Expert-red)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
 
-Senior Data Warehouse Architect | Data Engineer | Cloud Data Professional
+Senior Data Warehouse Architect | Data Engineer | Azure & AWS Cloud Data Professional | Data Modeling SME | Analytics & BI Expert
 
 With nearly 20 years of experience designing, building and optimizing enterprise data platforms, I specialize in transforming raw data into business value through scalable data architectures, cloud-native solutions and modern analytics platforms.
 

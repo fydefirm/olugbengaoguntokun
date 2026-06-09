@@ -50,5 +50,11 @@ See repositories below for:
 
 ## Connect With Me
 
-LinkedIn: <your-linkedin>
-Email: <professional-email>
+LinkedIn: https://www.linkedin.com/in/ooguntokunncsql
+Email: fydefirm@hotmail.com
+
+![Azure](https://img.shields.io/badge/Azure-Data%20Engineer-blue)
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange)
+![SQL](https://img.shields.io/badge/SQL-Expert-red)
+![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
+
